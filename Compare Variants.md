@@ -1,7 +1,7 @@
 # Compare between two protein structure
 ## Set up
 #### First, click on open to get the pdb files on your computer
-![Screenshot 2023-02-10 at 11 28 29](https://user-images.githubusercontent.com/112228504/218186012-aedbc34e-1b5f-4a10-9948-dc6489d8e709.png)
+![Screenshot 2023-02-10 at 11 28 29](https://user-images.githubusercontent.com/112228504/218206279-c53f9ff9-dbc9-41e0-991f-f729c15d7a9c.jpg)
 
 #### Then you will get a protein structure like this (the example structure is the orginial COVID-19 protein structure)
 ![Screenshot 2023-02-10 at 11 29 01](https://user-images.githubusercontent.com/112228504/218186685-2dbde655-ff00-4024-8fc1-96e60df15661.png)
