@@ -34,10 +34,19 @@
 #### After the sequence is showed, you can just read the sequence and compare them one by one, if you find some differences between them, select that sequence, go to Actions -> Color (Choose whatever color you want, but since you are comparing, choose some contrasting colors.)
 ![Screenshot 2023-02-10 at 13 21 58](https://user-images.githubusercontent.com/112228504/218200480-470dc26d-a2a2-4cbf-872e-febe9d92eb52.png)
 
+### Finally, don't forget to save your session. This is CRUCIAL!!! 
+#### File -> Save Session As -> choose the folder you want to save -> name your session -> Done!
+#### See, how simple is it? Next time, just find the python file (your session) you save, then open with Chimera, it will show you the last state on your session, after you save your session, you can just simply save your session any time.
+![Screenshot 2023-02-10 at 13 44 09](https://user-images.githubusercontent.com/112228504/218204708-11abf02f-3f89-4d68-a0b7-252ff3665e90.png)
+#### Choose the folder
+![Screenshot 2023-02-10 at 13 44 04](https://user-images.githubusercontent.com/112228504/218204714-099f5d04-d00b-4002-80cd-20beb493fa8d.png)
 
+
+<!-- 
 ## Find interface
 #### The purpose for finding interface is to let us easily confirm the region we want to compare the variants.
 #### Same thing, go to Tools -> Structure Analysis -> Find Clashes/Contacts
 ![Screenshot 2023-02-10 at 12 29 13](https://user-images.githubusercontent.com/112228504/218191491-ace3fba1-5869-42d7-a236-fa4d9c397fa8.png)
 
 #### Select -> Chain, can help you to designate the first 
+ -->
