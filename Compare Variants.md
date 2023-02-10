@@ -18,7 +18,7 @@
 #### We have this matched structure to compare.
 ![Screenshot 2023-02-10 at 12 22 35](https://user-images.githubusercontent.com/112228504/218190410-8e0dffb1-2039-42ef-bbf0-c3b4b1687d27.png)
 
-#### For your conveinence, it's optional for you to hide some proteins you don't need. Select the chain, then Actions -> Ribbon -> Hide, to get the proteins back, you go to select the chain you want. then Actions -> Ribbon -> Hide.
+#### For your conveinence, it's optional for you to hide some proteins you don't need. Select the chain, then Actions -> Ribbon -> Hide, to get the proteins back, select the chain you want, Actions -> Ribbon -> Show.
 ![Screenshot 2023-02-10 at 12 48 48](https://user-images.githubusercontent.com/112228504/218194940-eb40d897-b14b-4fc7-8d12-3fb6553e8f3b.png)
 ![Screenshot 2023-02-10 at 12 48 57](https://user-images.githubusercontent.com/112228504/218195041-b36f6ad7-bdee-447e-af27-c37bf8aa80fd.png)
 ![Screenshot 2023-02-10 at 12 53 56](https://user-images.githubusercontent.com/112228504/218195462-4168d16c-40c0-497a-94f0-5f68286ff95a.png)
