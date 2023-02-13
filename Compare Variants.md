@@ -11,7 +11,7 @@
 *Quick Note: For Mac user, press option to drag the whole picture to move in 2D space. Just moving the mouse can only move the structure in 3D space* 
 ![Screenshot 2023-02-10 at 12 03 19](https://user-images.githubusercontent.com/112228504/218187629-6469db8c-2234-485f-a436-d1db5ecda1c4.png)
 
-#### Now, the two strucutres are far apart from each other, how can we compare them?
+#### Now, the two strucutres are far apart from each other, how do we compare them?
 #### We just go to Tools -> Structure Comparision -> MatchMaker, then we choose the reference structure and the structure we want to match, click apply.
 ![Screenshot 2023-02-10 at 12 15 33](https://user-images.githubusercontent.com/112228504/218189127-d0eacc52-74e6-4c50-ac77-82f158ce5ee6.png)
 
