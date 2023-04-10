@@ -13,3 +13,9 @@
     hide sel atoms
 #### Hide selected cartoons
     hide sel cartoons
+
+### Color command
+#### color all to be specific color
+    color white
+#### color specific chain to be a color
+    color /A white
