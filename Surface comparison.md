@@ -57,3 +57,20 @@
 
 ## Appendix
 ### Userful [video](https://www.youtube.com/watch?v=FEIJ0lmybXo).
+
+### Userful command (I did)
+Make the bg color to be white, and color the specifc chain to be white, show surface
+```
+set bgColor white
+color /A white
+show surfaces
+```
+make the surface lighting to be soft and click off the eye icon of map
+```
+lighting soft
+hide #!2 models
+```
+To save the path
+```
+save "/Users/jaychen/Downloads/fwcovid19variantstuctures/surface comparison/source/delta_electro.cxs" includeMaps true
+```
