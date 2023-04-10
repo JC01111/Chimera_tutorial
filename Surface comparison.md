@@ -49,5 +49,8 @@
 
 <br>
 
+## Possible errors
+### If you can't see the electrostatic potential that's inside the surface of your protein. Because you didn't show surface of your protein before you import your electrostatic potential map. You need to first show the surface of your protein, then load the map to color.
+
 ## Appendix
 ### Userful [video](https://www.youtube.com/watch?v=FEIJ0lmybXo).
