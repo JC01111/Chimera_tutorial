@@ -45,6 +45,9 @@
 <img width="499" alt="Screenshot 2023-04-09 at 19 30 37" src="https://user-images.githubusercontent.com/112228504/230813684-d2590662-8332-4117-902d-76f06e388577.png">
 <img width="1379" alt="Screenshot 2023-04-09 at 19 30 59" src="https://user-images.githubusercontent.com/112228504/230813735-a50a2aa9-de86-433d-8c98-310b0b49b325.png">
 
+### To make your graph looks better, go to "Graphics" -> "Soft" in "Lighting & Effects"
+<img width="1374" alt="Screenshot 2023-04-09 at 19 53 11" src="https://user-images.githubusercontent.com/112228504/230816050-cbe7bbc2-526a-4b01-a83d-9d095e7eee74.png">
+
 ### Lastly, don't forget to save your session
 
 <br>
