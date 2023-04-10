@@ -41,6 +41,10 @@
 ### The color range goes opposite, if you input 5 for your blue color, it will be deep blue; if you enter 10, it will be light blue.
 <img width="1380" alt="Screenshot 2023-04-09 at 17 49 13" src="https://user-images.githubusercontent.com/112228504/230805071-798e9cf2-2ada-4740-b168-dbdf3752f6e1.png">
 
+### Last step, click off the little eye icon for the electrostatic potential map
+<img width="499" alt="Screenshot 2023-04-09 at 19 30 37" src="https://user-images.githubusercontent.com/112228504/230813684-d2590662-8332-4117-902d-76f06e388577.png">
+<img width="1379" alt="Screenshot 2023-04-09 at 19 30 59" src="https://user-images.githubusercontent.com/112228504/230813735-a50a2aa9-de86-433d-8c98-310b0b49b325.png">
+
 ### Lastly, don't forget to save your session
 
 <br>
