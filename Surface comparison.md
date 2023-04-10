@@ -60,7 +60,7 @@
 
 <br>
 
-### Userful command (I did)
+### Userful command
 Make the bg color to be white, and color the specifc chain to be white, show surface
 ```
 set bgColor white
