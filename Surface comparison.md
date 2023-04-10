@@ -37,7 +37,7 @@
 <img width="573" alt="Screenshot 2023-04-09 at 17 42 51" src="https://user-images.githubusercontent.com/112228504/230804682-c7c57281-323e-4005-a900-92c27bebcda5.png">
 
 ### Remember to use command to color white the chain if its surface color is not originially white
-### Now you can adjust the color of your electrostatic potential by adjusting the number of range in Red, White, Blue. Common range(-10, 0, 10), (-10, -3, 5)
+### Now you can adjust the color of your electrostatic potential by adjusting the number of range in Red, White, Blue. Common range (-3, 0, 3), (-10, 0, 10), (-10, -3, 5)
 ### The color range goes opposite, if you input 5 for your blue color, it will be deep blue; if you enter 10, it will be light blue.
 <img width="1380" alt="Screenshot 2023-04-09 at 17 49 13" src="https://user-images.githubusercontent.com/112228504/230805071-798e9cf2-2ada-4740-b168-dbdf3752f6e1.png">
 
