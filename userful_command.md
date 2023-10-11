@@ -20,11 +20,11 @@
 #### color specific chain to be a color
     color /A white
 ### Spin movie command
-`movie record; 
-turn x 2 180
-wait 180
-turn y 2 180
-wait 180
-turn z 2 180
-wait 180
-movie encode /Users/jaychen/Desktop/x.mp4`
+    movie record
+    turn x 2 180
+    wait 180
+    turn y 2 180
+    wait 180
+    turn z 2 180
+    wait 180
+    movie encode /Users/jaychen/Desktop/x.mp4
